@@ -1,0 +1,17 @@
+@media (min-width: 0) and (max-width: 600px) {
+    main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .header {
+        width: 100%;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+
+} 
